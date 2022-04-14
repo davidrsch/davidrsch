@@ -6,11 +6,12 @@ Feel free to check my __repositories:__
 1. [simple-LSTM-networks-for-univariateTS](https://github.com/davidrsch/simple-LSTM-networks-for-univariateTS)
 2. [LSTM-regressionexperiment](https://github.com/davidrsch/LSTM-regressionexperiment)
 
-If you have questions about any of my repositories or you want me to collaborate in a project you can reach me at:
+If you have questions about any of my repositories, want my collaboration in a project or want to know more about me you can check these medias:
 <div>
   <a href='mailto:daviddrsch@gmail.com'><img src='https://drive.google.com/uc?export=view&id=15XuS0O_CprAAgi3r63dRKjphNxMBvBTx' width = '25' height = '25'></a>
   <a href = 'https://www.linkedin.com/in/david-d%C3%ADaz-rodr%C3%ADguez-6257951b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuhhCIhPKStWqEGHpFRi1DQ%3D%3D'><img src='https://drive.google.com/uc?export=view&id=1_22r0XZY_7uwqdx6u5resn-IwrcuVkMI' width = '25'></a>
   <a href = 'https://stackoverflow.com/users/12660035/david-d%c3%adaz?tab=profile'><img src= 'https://drive.google.com/uc?export=view&id=1t9qx-VTq0_f9fwxENzJARQICRGWlRSaC' width = '25'></a>
+  <a href = 'https://orcid.org/0000-0002-0927-9795'><img src = 'https://drive.google.com/uc?export=view&id=1Ur729sBUrSJiYo8LNwNd8zVw1490DaJG' width = '25'></a>
 </div>
 <p align = 'center'><b>Support:</b></p>
 <div align = 'center'>
