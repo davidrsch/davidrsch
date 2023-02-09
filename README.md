@@ -13,10 +13,11 @@ If you have questions about any of my repositories, want my collaboration in a p
   <a href = 'https://stackoverflow.com/users/12660035/david-d%c3%adaz?tab=profile'><img src= 'https://drive.google.com/uc?export=view&id=1t9qx-VTq0_f9fwxENzJARQICRGWlRSaC' width = '25'></a>
   <a href = 'https://orcid.org/0000-0002-0927-9795'><img src = 'https://drive.google.com/uc?export=view&id=1Ur729sBUrSJiYo8LNwNd8zVw1490DaJG' width = '25'></a>
 </div>
+<!--
 <p align = 'center'><b>Support:</b></p>
 <div align = 'center'>
 <a href = 'https://drive.google.com/uc?export=view&id=1qxCy-QLbhG8t_KakHSU24af0Z_CjzKBq'><img src = 'https://drive.google.com/uc?export=view&id=1Z66_53tz5VtXBUxkB0qEqrGDK9BvkbqP' width='25%' height = '2%'/></a>
 <a href = 'https://drive.google.com/uc?export=view&id=1cDTplii0HMth8ys6NSQjfLwL70i2TnC4'><img src = 'https://drive.google.com/uc?export=view&id=1O2OYSRznWTO05XRAF5egAZRHXVBtQS-J' width='25%' height = '2%'/></a>
 <a href = 'https://drive.google.com/uc?export=view&id=1U2vwzXhIWBMGT0LGw7RUPt9MxPG3iIBf'><img src = 'https://drive.google.com/uc?export=view&id=1k-Fo8gwwMxZzvEK6mRG9Om0_4BkdvkHn' width='25%' height = '2%'/></a>
 </div>
-
+ -->
