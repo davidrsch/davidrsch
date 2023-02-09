@@ -3,8 +3,12 @@
 I am __David Díaz Rodríguez__. I hold a __Bachelor's Degree in Accountancy and Finance__ :abacus::moneybag: and in the last few years I have become a fan and user of the <img src = 'https://www.r-project.org/logo/Rlogo.png' width = '25'> __programming language__. Nowadays I found myself __working on getting experience__ :joy::rofl: . I am __interested in Data Science__ :man_technologist::chart_with_upwards_trend: and its different __applications__ to business and other fields. Therefore I am __open to collaborations__ :handshake: that allow me to __learn__ and put into __practice__ what I have learned about DS.
 
 Feel free to check my __repositories:__
-1. [simple-LSTM-networks-for-univariateTS](https://github.com/davidrsch/simple-LSTM-networks-for-univariateTS)
-2. [LSTM-regressionexperiment](https://github.com/davidrsch/LSTM-regressionexperiment)
+1. __APPs__. The idea behind these repositories is to practice how to make my projects get to productivity. This accomplyshed by offering to users, which might or might not know R, apps that allows them to use my solutions. APPS are ordered from last to first:
+   - [LSTM_RE](https://github.com/davidrsch/LSTM_RE) App to carry out simple experiments of the use of LSTM networks in time series forecasting.
+   - [LSTM_UTS](https://github.com/davidrsch/LSTM_UTS) An app made for the implementation of vanilla LSTM networks for univariate time series forecasting.
+2. __Books translation__. The idea behind these repositories is to facilitate the study of R programming to myself and to any spanish speaker who whish to learn about R progrming by offering an option to study using the most recommended books. These are no official translations of the books. Feel free to contribute if you find any issue. The books are ordered from first to last, recomended study order:
+   - [horpes](https://github.com/davidrsch/hopres) Hands on R Programming - __Programación Práctica con R__
+   - [r4dses](https://github.com/davidrsch/r4dses) R for Data Science - __R para la Ciencia de Datos__
 
 If you have questions about any of my repositories, want my collaboration in a project or want to know more about me you can check these medias:
 <div>
@@ -13,6 +17,7 @@ If you have questions about any of my repositories, want my collaboration in a p
   <a href = 'https://stackoverflow.com/users/12660035/david-d%c3%adaz?tab=profile'><img src= 'https://drive.google.com/uc?export=view&id=1t9qx-VTq0_f9fwxENzJARQICRGWlRSaC' width = '25'></a>
   <a href = 'https://orcid.org/0000-0002-0927-9795'><img src = 'https://drive.google.com/uc?export=view&id=1Ur729sBUrSJiYo8LNwNd8zVw1490DaJG' width = '25'></a>
 </div>
+
 <!--
 <p align = 'center'><b>Support:</b></p>
 <div align = 'center'>
