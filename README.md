@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am __David Díaz Rodríguez__. I hold a __Bachelor's Degree in Accountancy and Finance__ :abacus::moneybag: and in the last few years I have become a fan and user of the <img src = 'https://www.r-project.org/logo/Rlogo.png' width = '25'> __programming language__. Nowadays I found myself __working on getting experience__ :joy::rofl: . I am __interested in Data Science__ :man_technologist::chart_with_upwards_trend: and its different __applications__ to business and other fields. Therefore I am __open to collaborations__ :handshake: that allow me to __learn__ and put into __practice__ what I have learned about DS.
+I am __David Díaz Rodríguez__. I hold a __Master's Degree in Banking and Finance__ :abacus::moneybag: and in the last few years I have become a fan and user of the <img src = 'https://www.r-project.org/logo/Rlogo.png' width = '25'> __programming language__. Nowadays I found myself __working on getting experience__ :joy::rofl: . I am __interested in Data Science__ :man_technologist::chart_with_upwards_trend: and its different __applications__ to business and other fields. Therefore I am __open to collaborations__ :handshake: that allow me to __learn__ and put into __practice__ what I have learned about DS.
 
 Feel free to check my __repositories:__
 1. __APPs__. The idea behind these repositories is to practice how to make my projects get to productivity. This accomplyshed by offering to users, which might or might not know R, apps that allows them to use my solutions. APPS are ordered from last to first:
