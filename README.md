@@ -6,9 +6,6 @@ Feel free to check my __repositories:__
 1. __APPs__. The idea behind these repositories is to practice how to make my projects get to productivity. This accomplyshed by offering to users, which might or might not know R, apps that allows them to use my solutions. APPS are ordered from last to first:
    - [LSTM_RE](https://github.com/davidrsch/LSTM_RE) App to carry out simple experiments of the use of LSTM networks in time series forecasting.
    - [LSTM_UTS](https://github.com/davidrsch/LSTM_UTS) An app made for the implementation of vanilla LSTM networks for univariate time series forecasting.
-2. __Books translation__. The idea behind these repositories is to facilitate the study of R programming to myself and to any spanish speaker who whish to learn about R progrming by offering an option to study using the most recommended books. These are no official translations of the books. Feel free to contribute if you find any issue. The books are ordered from first to last, recomended study order:
-   - [horpes](https://github.com/davidrsch/hopres) Hands on R Programming - __Programación Práctica con R__
-   - [r4dses](https://github.com/davidrsch/r4dses) R for Data Science - __R para la Ciencia de Datos__
 
 If you have questions about any of my repositories, want my collaboration in a project or want to know more about me you can check these medias:
 <div>
