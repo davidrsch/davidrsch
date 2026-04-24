@@ -1,93 +1,62 @@
 # David Díaz Rodríguez
 
-### 🌍 Data Science | AI & Machine Learning | Finance | Open Source
+> Developing Data Science, AI, and Machine Learning tools with R and Python.
 
-Welcome to my GitHub profile! I'm a passionate data scientist and developer with a strong focus on artificial intelligence, machine learning, and data visualization. My projects span various domains, including financial analysis, time series forecasting, and environmental data analytics. I enjoy working with R, Python, and Shiny to create insightful tools and applications that help researchers, businesses, and data enthusiasts make informed decisions.
+[![Email](https://img.shields.io/badge/Email-daviddrsch%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=EA4335)](mailto:daviddrsch@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-david--drsch-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6IiBmaWxsPSIjMEE2NkMyIi8+PC9zdmc+)](https://www.linkedin.com/in/david-drsch/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0927--9795-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0002-0927-9795)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/David-Diaz-Rodriguez)
 
-### 🚀 Featured Projects
+I am a data scientist and developer focused on artificial intelligence, machine learning, and data visualization. My work spans deep learning frameworks, time series forecasting, and environmental data analytics. These projects are built primarily with R, Python, and Shiny.
 
-#### Greenhouse Gas Emissions Insights Dashboard 🌿🌍
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Quarto-4A82F0?style=flat-square&logo=quarto&logoColor=white" alt="Quarto" />
+  <img src="https://img.shields.io/badge/Shiny-005C9A?style=flat-square&logo=RStudio&logoColor=white" alt="Shiny" />
+  <img src="https://img.shields.io/badge/Tidymodels-1a162d?style=flat-square&logo=R&logoColor=white" alt="Tidymodels" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-An interactive dashboard that provides an intuitive and dynamic visualization of global greenhouse gas (GHG) emissions. Built using data from the **2024 Emissions Database for Global Atmospheric Research (EDGAR)**, this project makes complex environmental data more accessible, engaging, and insightful.
+<p align="center">
+  <img src="assets/stats_general.svg" />&nbsp;&nbsp;<img src="assets/stats_languages.svg" /><br>
+  <img src="assets/stats_activity.svg" />
+</p>
 
-**Key Features:**
- - Interactive maps and charts displaying global GHG emissions trends.
- - Data exploration tools for different regions, sectors, and emission sources.
- - Built with R and Shiny for seamless interactivity and real-time analysis.
+### 🌍 Environmental & Global Impact
+Data-driven applications and interactive visualizations designed to promote environmental awareness and explore global climate data.
 
-[Explore the project](https://github.com/davidrsch/ghg_emissions_dashboard)
+[![GHG Emissions Dashboard](assets/ghg_emissions_dashboard.svg)](https://github.com/davidrsch/ghg_emissions_dashboard)
 
----
+### 🛠️ Developer Tools & Productivity
+Extensions and tools tailored to streamline the development workflow, specifically targeting the R and Python data science ecosystems.
 
-#### Shiny Frameworks 🖥️✨
+[![Shiny Frameworks](assets/shinyframeworks-vscode.svg)](https://github.com/davidrsch/shinyframeworks-vscode)
 
-An extension designed to enhance **Shiny** development workflows by providing streamlined tools that simplify common tasks across various Shiny frameworks. This project aims to improve efficiency and reduce development time for R developers working on interactive web applications.
+### 🧠 Data Science & AI Tools
+Specialized packages and interactive applications for machine learning, deep neural networks, and robust time series forecasting models.
 
-[Explore the project](https://github.com/davidrsch/shinyframeworks-vscode)
+[![Kerasnip](assets/kerasnip.svg)](https://github.com/davidrsch/kerasnip)
+[![LSTM Univariate App](assets/lstm_uts.svg)](https://github.com/davidrsch/lstm_uts)
+[![LSTM Regression Explorer](assets/lstm_re.svg)](https://github.com/davidrsch/lstm_re)
 
----
+### 📚 Spanish R Translations
+Collaborative localization projects dedicated to bringing essential R and Data Science knowledge to the global Spanish-speaking community.
 
-#### 📚 R para la Ciencia de Datos (Translation of R Books)
+<p align="left">
+  <img src="assets/translations_header.svg" /><br>
+  <a href="https://github.com/davidrsch/r4ds-es"><img src="assets/trans_r4ds-es.svg" /></a><br>
+  <a href="https://github.com/davidrsch/advr-es"><img src="assets/trans_advr-es.svg" /></a><br>
+  <a href="https://github.com/davidrsch/rpkgs-es"><img src="assets/trans_rpkgs-es.svg" /></a><br>
+  <a href="https://github.com/davidrsch/tmwr-es"><img src="assets/trans_tmwr-es.svg" /></a><br>
+  <a href="https://github.com/davidrsch/ggplot2b-es"><img src="assets/trans_ggplot2b-es.svg" /></a><br>
+  <a href="https://github.com/davidrsch/hopr-es"><img src="assets/trans_hopr-es.svg" /></a><br>
+  <a href="https://github.com/davidrsch/hggh4r-es"><img src="assets/trans_hggh4r-es.svg" /></a>
+</p>
 
-A collaborative project that brings Spanish translations of fundamental books on R and data science to the community. Initially started as a personal learning initiative, this project has evolved into an open-access resource for Spanish-speaking learners and professionals.
-
-**Translated Works:**
-- Programación Práctica con R - Garrett Grolemund
-- R para la Ciencia de Datos - Hadley Wickham, Mine Çetinkaya-Rundel & Garrett Grolemund
-- Git & GitHub con R - Jenny Bryan & collaborators
-- Modelado Ordenado con R - Max Kuhn & Julia Silge
-- R Avanzado - Hadley Wickham
-- Paquetes de R - Hadley Wickham & Jenny Bryan
-- ggplot2: Gráficos Elegantes para Análisis de Datos - Hadley Wickham, Danielle Navarro & Thomas Lin Pedersen
-
-**Objective:**
-- Facilitate access to high-quality learning materials for Spanish speakers.
-- Promote best practices in R programming and reproducible research.
-- Strengthen the global R community by encouraging knowledge sharing.
-
----
-
-#### Application of Artificial Neural Networks & Quadratic Programming in Portfolio Management 📈💰
-
-A collection of repositories containing my **Final Master's Thesis**, where I explore the application of **artificial neural networks** and **quadratic programming** in financial portfolio management.
-
-**Key Topics Covered:**
-- Characterization of financial time series for improved forecasting.
-- Integration of convolutional neural networks (CNNs) and long short-term memory (LSTM) networks to enhance predictive capabilities.
-- Application of quadratic programming for optimal asset allocation.
-- Challenges and opportunities in AI-driven portfolio management.
-
-#### LSTM Networks for Time Series Forecasting 📊🔮
-
-A project dedicated to automating a methodology for implementing **long short-term memory (LSTM) networks** in time series forecasting. This repository serves as a central hub for structured experimentation, model evaluation, and deployment strategies, enabling efficient and reproducible forecasting processes.
-
----
-
-### 🛠️ Technologies & Tools
-
-- **Programming Languages:** R, Python
-- **Machine Learning & AI:** TensorFlow, Keras, LSTMs, CNNs
-- **Data Visualization:** Shiny, ggplot2, Plotly, D3.js
-- **Finance & Optimization:** Portfolio Theory, Quadratic Programming
-- **Version Control:** Git & GitHub
-
-### 💡 Let's Connect!
-
-I'm always open to collaboration, discussions, and learning opportunities. If you're interested in any of my projects or have ideas for new initiatives, feel free to reach out!
-
-<div>
-  <a href='mailto:daviddrsch@gmail.com'><img src='https://drive.google.com/uc?export=view&id=15XuS0O_CprAAgi3r63dRKjphNxMBvBTx' width = '25' height = '25'></a>
-  <a href = 'https://www.linkedin.com/in/david-d-6257951b8'><img src='https://drive.google.com/uc?export=view&id=1_22r0XZY_7uwqdx6u5resn-IwrcuVkMI' width = '25'></a>
-  <!--<a href = 'https://stackoverflow.com/users/12660035/david-d%c3%adaz?tab=profile'><img src= 'https://drive.google.com/uc?export=view&id=1t9qx-VTq0_f9fwxENzJARQICRGWlRSaC' width = '25'></a>-->
-  <a href = 'https://www.researchgate.net/profile/David-Diaz-Rodriguez'><img src = 'https://drive.google.com/uc?export=view&id=14SJWAvwg3n6IdQeTFYk1KKmOVM06hiLD' width = '25'></a>
-  <a href = 'https://orcid.org/0000-0002-0927-9795'><img src = 'https://drive.google.com/uc?export=view&id=1Ur729sBUrSJiYo8LNwNd8zVw1490DaJG' width = '25'></a>
-</div>
-
-<!--
-<p align = 'center'><b>Support:</b></p>
-<div align = 'center'>
-<a href = 'https://drive.google.com/uc?export=view&id=1qxCy-QLbhG8t_KakHSU24af0Z_CjzKBq'><img src = 'https://drive.google.com/uc?export=view&id=1Z66_53tz5VtXBUxkB0qEqrGDK9BvkbqP' width='25%' height = '2%'/></a>
-<a href = 'https://drive.google.com/uc?export=view&id=1cDTplii0HMth8ys6NSQjfLwL70i2TnC4'><img src = 'https://drive.google.com/uc?export=view&id=1O2OYSRznWTO05XRAF5egAZRHXVBtQS-J' width='25%' height = '2%'/></a>
-<a href = 'https://drive.google.com/uc?export=view&id=1U2vwzXhIWBMGT0LGw7RUPt9MxPG3iIBf'><img src = 'https://drive.google.com/uc?export=view&id=1k-Fo8gwwMxZzvEK6mRG9Om0_4BkdvkHn' width='25%' height = '2%'/></a>
-</div>
- -->
+> **Stats are auto-generated daily** by a GitHub Actions workflow that fetches live data directly from the GitHub API. No third-party services involved.
