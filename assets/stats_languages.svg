@@ -59,12 +59,12 @@
 
 <rect x="0" y="0" width="405" height="140" rx="8" class="card"/>
   <text x="20" y="24" class="clr-primary txt-bold" text-anchor="start" font-size="14">Most Used Languages</text>
-  <rect x="20" y="40" width="219.025" height="8" fill="#198CE7" rx="4"/>
-  <rect x="239.025" y="40" width="61.0672" height="8" fill="#3D6117" rx="0"/>
-  <rect x="300.092" y="40" width="59.4331" height="8" fill="#0298c3" rx="0"/>
-  <rect x="359.525" y="40" width="11.1796" height="8" fill="#f1e05a" rx="0"/>
-  <rect x="370.704" y="40" width="8.1777" height="8" fill="#DA5B0B" rx="0"/>
-  <rect x="378.882" y="40" width="6.11787" height="8" fill="#ccc" rx="4"/>
+  <rect x="20" y="40" width="219.076" height="8" fill="#198CE7" rx="4"/>
+  <rect x="239.076" y="40" width="61.0455" height="8" fill="#3D6117" rx="0"/>
+  <rect x="300.122" y="40" width="59.412" height="8" fill="#0298c3" rx="0"/>
+  <rect x="359.534" y="40" width="11.1756" height="8" fill="#f1e05a" rx="0"/>
+  <rect x="370.71" y="40" width="8.1748" height="8" fill="#DA5B0B" rx="0"/>
+  <rect x="378.884" y="40" width="6.11569" height="8" fill="#ccc" rx="4"/>
   <circle cx="24" cy="72" r="4" fill="#198CE7"/>
   <text x="36" y="76" class="clr-primary txt-bold" text-anchor="start" font-size="12">R</text>
   <text x="135" y="76" class="clr-muted" text-anchor="start" font-size="12">60.0%</text>
