@@ -59,24 +59,24 @@
 
 <rect x="0" y="0" width="405" height="140" rx="8" class="card"/>
   <text x="20" y="24" class="clr-primary txt-bold" text-anchor="start" font-size="14">Most Used Languages</text>
-  <rect x="20" y="40" width="235.516" height="8" fill="#198CE7" rx="4"/>
-  <rect x="255.516" y="40" width="54.0053" height="8" fill="#3D6117" rx="0"/>
-  <rect x="309.521" y="40" width="52.5602" height="8" fill="#0298c3" rx="0"/>
-  <rect x="362.081" y="40" width="10.2765" height="8" fill="#f1e05a" rx="0"/>
-  <rect x="372.358" y="40" width="7.23202" height="8" fill="#DA5B0B" rx="0"/>
-  <rect x="379.59" y="40" width="5.41039" height="8" fill="#ccc" rx="4"/>
+  <rect x="20" y="40" width="235.771" height="8" fill="#198CE7" rx="4"/>
+  <rect x="255.771" y="40" width="53.8284" height="8" fill="#3D6117" rx="0"/>
+  <rect x="309.6" y="40" width="52.388" height="8" fill="#0298c3" rx="0"/>
+  <rect x="361.988" y="40" width="10.4113" height="8" fill="#f1e05a" rx="0"/>
+  <rect x="372.399" y="40" width="7.20834" height="8" fill="#DA5B0B" rx="0"/>
+  <rect x="379.607" y="40" width="5.39267" height="8" fill="#ccc" rx="4"/>
   <circle cx="24" cy="72" r="4" fill="#198CE7"/>
   <text x="36" y="76" class="clr-primary txt-bold" text-anchor="start" font-size="12">R</text>
-  <text x="135" y="76" class="clr-muted" text-anchor="start" font-size="12">64.5%</text>
+  <text x="135" y="76" class="clr-muted" text-anchor="start" font-size="12">64.6%</text>
   <circle cx="24" cy="94" r="4" fill="#3D6117"/>
   <text x="36" y="98" class="clr-primary txt-bold" text-anchor="start" font-size="12">TeX</text>
-  <text x="135" y="98" class="clr-muted" text-anchor="start" font-size="12">14.8%</text>
+  <text x="135" y="98" class="clr-muted" text-anchor="start" font-size="12">14.7%</text>
   <circle cx="24" cy="116" r="4" fill="#0298c3"/>
   <text x="36" y="120" class="clr-primary txt-bold" text-anchor="start" font-size="12">Perl</text>
   <text x="135" y="120" class="clr-muted" text-anchor="start" font-size="12">14.4%</text>
   <circle cx="219" cy="72" r="4" fill="#f1e05a"/>
   <text x="231" y="76" class="clr-primary txt-bold" text-anchor="start" font-size="12">JavaScript</text>
-  <text x="330" y="76" class="clr-muted" text-anchor="start" font-size="12">2.8%</text>
+  <text x="330" y="76" class="clr-muted" text-anchor="start" font-size="12">2.9%</text>
   <circle cx="219" cy="94" r="4" fill="#DA5B0B"/>
   <text x="231" y="98" class="clr-primary txt-bold" text-anchor="start" font-size="12">Jupyter Notebook</text>
   <text x="330" y="98" class="clr-muted" text-anchor="start" font-size="12">2.0%</text>
